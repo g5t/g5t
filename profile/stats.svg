@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Gregory S. Tucker&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 3, Total Commits  (last year) : 1090, Total PRs: 793, Total Issues: 394, Contributed to (last year): 29</desc>
+        <desc id="descId">Total Stars Earned: 3, Total Commits  (last year) : 1106, Total PRs: 806, Total Issues: 394, Contributed to (last year): 29</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 90.59505711930099;
+        stroke-dashoffset: 90.50636428344941;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >793</text>
+      >806</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
